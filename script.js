@@ -26,7 +26,7 @@ setTimeout(function() {
 
     
     alert(`Start the game Slow let the pics be upload in the cards`);
-    alert(`ZOOM-OUT || ZOOM-IN as preference"<p> &#128540;</p>"`)
+    alert(`ZOOM-OUT || ZOOM-IN as preference`)
   } );
 
 // Shufffel function
