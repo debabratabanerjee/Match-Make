@@ -1,7 +1,7 @@
 /* Variabes */
 /* Mixin's */
 body {
-/*  background-image: url(./images/night.jpg); */
+  background-image: url(./images/night.jpg); 
   background-color: blue;
   background-repeat: no-repeat;
   

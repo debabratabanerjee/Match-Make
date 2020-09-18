@@ -25,7 +25,8 @@ var cards = images.concat(clone); // merge to arrays
 setTimeout(function() {
 
     
-    alert(`Play it Slow let the pics be upload in the card`);
+    alert(`Start the game Slow let the pics be upload in the cards`);
+    alert(`ZOOM-OUT || ZOOM-IN as preference"<p> &#128540;</p>"`)
   } );
 
 // Shufffel function
