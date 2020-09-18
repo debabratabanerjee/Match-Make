@@ -90,6 +90,7 @@ body {
   
   body{
     text-align: center;
+    background-image: url(./images/night2opti.jpg);
   }
   #container {
     display: flex;
