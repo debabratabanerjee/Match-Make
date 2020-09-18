@@ -84,6 +84,7 @@ var check = function(className) {
    
 }
 
+
 var win = function  ()  {
 
   if(counter === 5) {
