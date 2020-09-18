@@ -1,3 +1,5 @@
+
+var performance;
 var myCards = document.getElementById('container');
 var resultsArray = [];
 var counter = 0;
@@ -17,6 +19,14 @@ var images = [
 
 var clone = images.slice(0); // duplicate array
 var cards = images.concat(clone); // merge to arrays 
+
+
+
+setTimeout(function() {
+
+    
+    alert(`Play it Slow let the pics be upload in the card`);
+  } );
 
 // Shufffel function
 function shuffle(o){
@@ -58,6 +68,7 @@ for (var i = 0; i < cards.length; i++) {
   }
    
 };
+
 
 
 var check = function(className) {
